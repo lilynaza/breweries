@@ -1,6 +1,8 @@
 
 ![SQL_create](https://user-images.githubusercontent.com/78624637/179374168-3b03a7e7-ccd4-40f1-9128-d9a4640351fa.PNG)
 
+The data set is in a csv formate I first created a table using the query above to create a table in postgresql before loading the data set.
+
 
 
 
@@ -255,6 +257,9 @@ Castle lite generated the highest profit in Senegal.
 
 
 3. Country with the highest profit of the fourth quarter in 2019
+
+
+![20](https://user-images.githubusercontent.com/78624637/179374286-05f64589-2d6c-4ce7-8a4f-852d8a87101a.PNG)
 
 
 + Result
