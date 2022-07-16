@@ -1,3 +1,9 @@
+
+![SQL_create](https://user-images.githubusercontent.com/78624637/179374168-3b03a7e7-ccd4-40f1-9128-d9a4640351fa.PNG)
+
+
+
+
 # Problem Statement
 The manager of an international breweries need to make better decision making in order to maximize profit and reduce loss to the lowest minimum. He has asked me to perform various analysis to aid him in his decision making using data from the past three years.
 
@@ -226,6 +232,32 @@ Castle lite generated the highest profit in Senegal.
 
 1. Country with the highest consumption of beer.
 
+![18](https://user-images.githubusercontent.com/78624637/179374129-7e9fa8d4-1784-49c1-b8ff-e98c5bf86fcb.PNG)
+
+
+* Result
+
+
+![18r](https://user-images.githubusercontent.com/78624637/179374132-d7617f65-b71d-432b-a8cd-a4eb4d0fce56.PNG)
+
+* Senegal consumed a total of 103901 beer followed by Nigeria 103578.
+
+
 2. Highest sales personnel of Budweiser in Senegal
 
+![19](https://user-images.githubusercontent.com/78624637/179374139-6c0a108d-c1e3-4784-8268-fe936a0eaba3.PNG)
+
+
+* Result
+
+![19r](https://user-images.githubusercontent.com/78624637/179374143-00ffb5a2-2e26-4e0a-9dee-4d0cf9af58c7.PNG)
+
+
+
 3. Country with the highest profit of the fourth quarter in 2019
+
+
++ Result
+
+
+![20r](https://user-images.githubusercontent.com/78624637/179374149-edbec5f4-034e-490a-a36f-14171fc5e795.PNG)
