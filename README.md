@@ -102,7 +102,7 @@ August made a total of 2982800 followed by July which made 2945340 profit.
 * Result
 
 
-![8r](https://user-images.githubusercontent.com/78624637/179337900-5351fb63-43e6-49c3-bd2f-917e4d9a6204.PNG
+![8r](https://user-images.githubusercontent.com/78624637/179338847-47eadb45-b5e7-4f34-98a2-3018ba148aba.PNG)
 
 Castle lite generated the highest profit in Senegal.
 
@@ -113,21 +113,90 @@ Castle lite generated the highest profit in Senegal.
 
 1. Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
 
+
+![9](https://user-images.githubusercontent.com/78624637/179338859-f916ae3b-595a-45c6-8502-6e314e377f5a.PNG)
+
+
+* Result
+
+![9r](https://user-images.githubusercontent.com/78624637/179338868-b57dcf18-5e1f-4e20-b21d-433f515fb61e.PNG)
+
+
 2. Find out the top two choice of consumer brands in Ghana
+
+![10](https://user-images.githubusercontent.com/78624637/179338878-07d4cb54-05b9-4922-8161-e75e7f5d8531.PNG)
+
+* Result
+
+
+![10r](https://user-images.githubusercontent.com/78624637/179338884-b3ab0140-07b8-4059-8f2a-f76677d56724.PNG)
+
 
 3. Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
 
+![11](https://user-images.githubusercontent.com/78624637/179338892-baab2237-f802-46fd-86bf-d3a634daccdf.PNG)
+
+* Result
+
+
+![11r](https://user-images.githubusercontent.com/78624637/179338894-88b04d31-8d2d-486d-8100-702c1d940fbc.PNG)
+
+
 4. Favorites malt brand in Anglophone region between 2018 and 2019
+
+![12](https://user-images.githubusercontent.com/78624637/179338899-0410f00e-5a15-4d20-b59b-30f369dfeaf6.PNG)
+
+* Result
+
+
+![12r](https://user-images.githubusercontent.com/78624637/179338906-dc606b10-ae4e-423f-bb9b-8b920bc97b12.PNG)
 
 5. Which brands sold the highest in 2019 in Nigeria?
 
+![13](https://user-images.githubusercontent.com/78624637/179338932-245e147a-ea22-4dc5-9018-b0d3fd6bbe33.PNG)
+
+* Result 
+
+![13r](https://user-images.githubusercontent.com/78624637/179338941-84e7e608-19ce-4d84-ae5b-7114babe7de2.PNG)
+
+
+
 6. Favorites brand in South_South region in Nigeria
+
+![14](https://user-images.githubusercontent.com/78624637/179338949-01efec54-039f-4286-b177-084b23bf7641.PNG)
+
+* Result  
+
+
+![14r](https://user-images.githubusercontent.com/78624637/179338951-c775f508-dd3d-4c37-b174-e936d9424561.PNG)
+
 
 7. Bear consumption in Nigeria
 
+![15](https://user-images.githubusercontent.com/78624637/179338959-15176e39-6e73-4d94-a2a3-2966d0e3bbcd.PNG)
+
+* Result
+
+![15r](https://user-images.githubusercontent.com/78624637/179338971-580c14ae-9606-42ec-aca7-985c69b46a46.PNG)
+
+
 8. Level of consumption of Budweiser in the regions in Nigeria
 
+![16](https://user-images.githubusercontent.com/78624637/179338975-bbb6cf09-11ee-4433-8e4f-76d5ea3ca0de.PNG)
+
+* Result
+
+![16r](https://user-images.githubusercontent.com/78624637/179338984-f19f28a9-190b-4932-9617-5fd745fb0484.PNG)
+
+
 9. Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
+
+![17](https://user-images.githubusercontent.com/78624637/179338988-1867b3c9-ce59-447f-9642-16de58e42d39.PNG)
+
+* Result
+
+
+![17r](https://user-images.githubusercontent.com/78624637/179338994-1f326301-0ae6-4f07-b1f7-03fed1916de6.PNG)
 
 
 # COUNTRIES ANALYSIS
