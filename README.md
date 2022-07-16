@@ -18,6 +18,8 @@ The breweries made a total of 105587420 profit with in 3 years
 
 2. Compare the total profit between these two territories in order for the territory manager, Mr. Stone to make a strategic decision that will aid profit maximization in 2020.
 
+To group the data into Anglophone and Francophone I wrote a CTE.
+
 ![2](https://user-images.githubusercontent.com/78624637/179337842-b4f675dd-0fc5-45ff-91ab-e9cd60ef4fae.PNG)
 
 * Result
@@ -121,6 +123,8 @@ Castle lite generated the highest profit in Senegal.
 
 ![9r](https://user-images.githubusercontent.com/78624637/179338868-b57dcf18-5e1f-4e20-b21d-433f515fb61e.PNG)
 
+* Budweiser, grand malt and trophy were the top 3 brand
+
 
 2. Find out the top two choice of consumer brands in Ghana
 
@@ -131,8 +135,12 @@ Castle lite generated the highest profit in Senegal.
 
 ![10r](https://user-images.githubusercontent.com/78624637/179338884-b3ab0140-07b8-4059-8f2a-f76677d56724.PNG)
 
+* hero and beta malt were the top choices made in Ghana.
+
 
 3. Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+
+* Nigeria the the most oil producting country in west Africa
 
 ![11](https://user-images.githubusercontent.com/78624637/179338892-baab2237-f802-46fd-86bf-d3a634daccdf.PNG)
 
@@ -140,6 +148,9 @@ Castle lite generated the highest profit in Senegal.
 
 
 ![11r](https://user-images.githubusercontent.com/78624637/179338894-88b04d31-8d2d-486d-8100-702c1d940fbc.PNG)
+
+* Budweiser is the most consumed  beer in Nigeria followed by eagle lager and hero
+
 
 
 4. Favorites malt brand in Anglophone region between 2018 and 2019
@@ -151,6 +162,8 @@ Castle lite generated the highest profit in Senegal.
 
 ![12r](https://user-images.githubusercontent.com/78624637/179338906-dc606b10-ae4e-423f-bb9b-8b920bc97b12.PNG)
 
+* grand malt is the most consumed malt in Anglophone between 2018 and 2019.
+
 5. Which brands sold the highest in 2019 in Nigeria?
 
 ![13](https://user-images.githubusercontent.com/78624637/179338932-245e147a-ea22-4dc5-9018-b0d3fd6bbe33.PNG)
@@ -158,6 +171,10 @@ Castle lite generated the highest profit in Senegal.
 * Result 
 
 ![13r](https://user-images.githubusercontent.com/78624637/179338941-84e7e608-19ce-4d84-ae5b-7114babe7de2.PNG)
+
+
+* Hero sold a total of 9622 in Nigeria in the year 2019 making the the most consumeed brand.
+
 
 
 
@@ -169,6 +186,8 @@ Castle lite generated the highest profit in Senegal.
 
 
 ![14r](https://user-images.githubusercontent.com/78624637/179338951-c775f508-dd3d-4c37-b174-e936d9424561.PNG)
+
+* eagle lager is the most consumed brand in south south region in Nigeria.
 
 
 7. Bear consumption in Nigeria
@@ -188,6 +207,8 @@ Castle lite generated the highest profit in Senegal.
 
 ![16r](https://user-images.githubusercontent.com/78624637/179338984-f19f28a9-190b-4932-9617-5fd745fb0484.PNG)
 
+* 129260 quantity of beer was consumed in Nigerai 
+
 
 9. Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
 
@@ -197,6 +218,8 @@ Castle lite generated the highest profit in Senegal.
 
 
 ![17r](https://user-images.githubusercontent.com/78624637/179338994-1f326301-0ae6-4f07-b1f7-03fed1916de6.PNG)
+
+* West 4620 followed by north central 4498
 
 
 # COUNTRIES ANALYSIS
