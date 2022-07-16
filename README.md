@@ -1,7 +1,9 @@
 
-![SQL_create](https://user-images.githubusercontent.com/78624637/179374168-3b03a7e7-ccd4-40f1-9128-d9a4640351fa.PNG)
 
-The data set is in a csv formate I first created a table using the query above to create a table in postgresql before loading the data set.
+The data set is in a csv formate I first created a table using the query belowe before loading the data set.
+
+
+![SQL_create](https://user-images.githubusercontent.com/78624637/179374168-3b03a7e7-ccd4-40f1-9128-d9a4640351fa.PNG)
 
 
 
