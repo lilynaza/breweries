@@ -268,3 +268,7 @@ Castle lite generated the highest profit in Senegal.
 
 
 ![20r](https://user-images.githubusercontent.com/78624637/179374149-edbec5f4-034e-490a-a36f-14171fc5e795.PNG)
+
+# Dashboard
+
+![23](https://user-images.githubusercontent.com/78624637/181132287-b34411b8-fd4e-4990-a999-58bde7859683.PNG)
